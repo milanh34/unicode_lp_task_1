@@ -4,7 +4,7 @@ This repository contains the code for the first learning period task of DJ Unico
 # The First Task is : 
 <------- Creating a To-Do Website with Album Gallery ------->  
 => Key features to be implemented  
-&nbsp&nbsp You have to use HTML , CSS and JS Compulsory  
+&nbsp &nbsp You have to use HTML , CSS and JS Compulsory  
 &nbsp&nbsp&nbsp&nbsp 1. Use arrow functions for all the functions created.  
 &nbsp&nbsp&nbsp&nbsp 2. Try to implement async and await requests for data.  
 &nbsp&nbsp&nbsp&nbsp 3. Make use of css framework such as TAILWIND  
