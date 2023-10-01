@@ -25,4 +25,4 @@ This repository contains the code for the first learning period task of DJ Unico
 The First Task has been completed along with the bonus tasks.
 
 # Website Hosted 
-You can check out this link to see the website live : https://milanh34.github.io/unicode_lp_task-1/
+You can check out this link to see the website live : https://milanh34.github.io/unicode_lp_task_1/
